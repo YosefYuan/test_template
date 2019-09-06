@@ -1,0 +1,43 @@
+{
+  "id": "1_1",
+  "right-answer-index": "A",
+  "template": {
+    "name": "暑期活动",
+    "module": "summer_SP"
+  },
+  "category-title": {
+    "text": "亚洲小知识"
+  },
+  "title": {
+    "text": "Which of the following is a traditional food in Japan?_以下哪种是日本传统食物？"
+  },
+  "questions": [{
+      "index": "A",
+      "description": "sushi",
+      "resource": {
+        "img": "/assets_summer/img/1/1/A.jpg"
+      }
+    },
+    {
+      "index": "B",
+      "description": "tacos",
+      "resource": {
+        "img": "/assets_summer/img/1/1/B.jpg"
+      }
+    },
+    {
+      "index": "C",
+      "description": "hamburger",
+      "resource": {
+        "img": "/assets_summer/img/1/1/C.jpg"
+      }
+    },
+    {
+      "index": "D",
+      "description": "pasta",
+      "resource": {
+        "img": "/assets_summer/img/1/1/D.jpg"
+      }
+    }
+  ]
+}
